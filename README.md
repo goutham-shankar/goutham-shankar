@@ -1,4 +1,2 @@
-<!-- Animated Header Banner --> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FB8C00&center=true&vCenter=true&width=500&height=70&lines=Hello%2C+I'm+Your+Name;Full+Stack+Developer;UI%2FUX+Designer" alt="Typing SVG" /> </p> <!-- Animated Wave --> <p align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="90" height="90" /> </p> 
-💻 Languages and Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,django,git,docker,aws,figma&theme=light&perline=5" /> </p> <!-- Animated Projects Section -->
+
 <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"> </div>
